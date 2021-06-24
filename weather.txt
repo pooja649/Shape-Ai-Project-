@@ -1,0 +1,7 @@
+
+city name:ludhiana
+temperature:41.610000000000014
+humidity:12
+weather:broken clouds
+wind speed:3.56
+date and time:24 Jun 2021 | 11:43:23 AM
